@@ -1,6 +1,6 @@
 # Markdown
 
-Markdown é uma lingaguem para exibir conteúdos de texto ou até mesmo imagens de forma estruturada.
+Markdown é uma linguaguem para exibir conteúdos de texto ou até mesmo imagens de forma estruturada.
 
 ## Lista de formatos básicos
 - [Títulos](./titulo.md)
